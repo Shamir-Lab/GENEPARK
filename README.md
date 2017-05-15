@@ -1,8 +1,8 @@
 # To get the results of the GENEPARK project:
-# Download all code and data files into the same directory
-# Open reproduce_geneparks_results.R 
-# Set the working dir to the directory in which all files are in
-# Run the analyses to get the models, signature, and figures. Note that some analyses are slow (especially the fSVA-based).
+1. Download all code and data files into the same directory
+2. Open reproduce_geneparks_results.R 
+3. Set the working dir to the directory in which all files are in
+4. Run the analyses to get the models, signature, and figures. Note that some analyses are slow (especially the fSVA-based).
 
 
 License
