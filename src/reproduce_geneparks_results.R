@@ -5,6 +5,9 @@
 
 # The required libraries for running the code
 library(sva);library(ROCR);library(CMA);library(e1071);library(hash);library(preprocessCore);library('org.Hs.eg.db')
+# Set your working directory to the directory with "helper_methods.R" and all data from 
+# http://acgt.cs.tau.ac.il/genepark_data/
+# Do not forget to unzip the files
 setwd('C:/Users/davidama/Desktop/genepark/analysis/classification_r/reproduce_results')
 source("helper_methods.R")
 
